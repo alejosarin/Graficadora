@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from numpy import pi,sin,cos,tan
 N=100
-color="green"
+color="purple"
 letras="black"
 color_bt ="LightBlue3"
 def salir():
